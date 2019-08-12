@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Revature\\Challenges\\Week1\\Week1.Client\\Week1.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Revature\\Challenges\\Week1\\Week1.Client\\Week1.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Revature\\Challenges\\Week1\\Week1.Client\\Week1.Client.csproj",
+        "projectName": "Week1.Client",
+        "projectPath": "C:\\Revature\\Challenges\\Week1\\Week1.Client\\Week1.Client.csproj",
+        "packagesPath": "C:\\Users\\Trey\\.nuget\\packages\\",
+        "outputPath": "C:\\Revature\\Challenges\\Week1\\Week1.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Trey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Revature\\Challenges\\Week1\\Week1.Domain\\Week1.Domain.csproj": {
+                "projectPath": "C:\\Revature\\Challenges\\Week1\\Week1.Domain\\Week1.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Revature\\Challenges\\Week1\\Week1.Domain\\Week1.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Revature\\Challenges\\Week1\\Week1.Domain\\Week1.Domain.csproj",
+        "projectName": "Week1.Domain",
+        "projectPath": "C:\\Revature\\Challenges\\Week1\\Week1.Domain\\Week1.Domain.csproj",
+        "packagesPath": "C:\\Users\\Trey\\.nuget\\packages\\",
+        "outputPath": "C:\\Revature\\Challenges\\Week1\\Week1.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Trey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

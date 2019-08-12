@@ -1,0 +1,9 @@
+C:\Revature\Challenges\Week1\Week1.Domain\bin\Debug\netstandard2.0\Week1.Domain.deps.json
+C:\Revature\Challenges\Week1\Week1.Domain\bin\Debug\netstandard2.0\Week1.Domain.dll
+C:\Revature\Challenges\Week1\Week1.Domain\bin\Debug\netstandard2.0\Week1.Domain.pdb
+C:\Revature\Challenges\Week1\Week1.Domain\obj\Debug\netstandard2.0\Week1.Domain.csprojAssemblyReference.cache
+C:\Revature\Challenges\Week1\Week1.Domain\obj\Debug\netstandard2.0\Week1.Domain.csproj.CoreCompileInputs.cache
+C:\Revature\Challenges\Week1\Week1.Domain\obj\Debug\netstandard2.0\Week1.Domain.AssemblyInfoInputs.cache
+C:\Revature\Challenges\Week1\Week1.Domain\obj\Debug\netstandard2.0\Week1.Domain.AssemblyInfo.cs
+C:\Revature\Challenges\Week1\Week1.Domain\obj\Debug\netstandard2.0\Week1.Domain.dll
+C:\Revature\Challenges\Week1\Week1.Domain\obj\Debug\netstandard2.0\Week1.Domain.pdb
